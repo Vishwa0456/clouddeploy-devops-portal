@@ -6,7 +6,7 @@ The system handles provisioning, deployment, notifications
 and monitoring automatically.
 
 ## Architecture
-![Architecture](architecture/architecture.png)
+![Architecture](architecture/clouddeploy_architecture.png)
 
 ## Tech Stack
 - Frontend: React
